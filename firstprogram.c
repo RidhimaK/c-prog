@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 void main()
-{
-printf("ABC");
-getch();
+{ 
+    clrscr();
+    printf("ABC");
+    getch();
 }
